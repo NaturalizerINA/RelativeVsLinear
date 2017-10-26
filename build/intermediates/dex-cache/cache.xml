@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/user/Dokumen/Java/Android/RelativeVsLinear/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="029424d97ceb691901f99c15f6d867b00ea0a7ba">
+        <dex dex="/home/user/Dokumen/Java/Android/RelativeVsLinear/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b674b79f7b36876768f8ef14550266585da7a523/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/user/Dokumen/Java/Android/RelativeVsLinear/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_124bc67c7f5db75925f5f02254cd041446025b31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/28e43c59ab26f36e07eaa822c622317de6d8efea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/user/Dokumen/Java/Android/RelativeVsLinear/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e98bd105c2ae7de5301019cbf0cfcc8829c1e03c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/Dokumen/Java/Android/RelativeVsLinear/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/user/Dokumen/Java/Android/RelativeVsLinear/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0cb54d6f6cb101f8b5adf57b8f48c80fb5e6c78c/classes.dex" />
+    </item>
+
+</items>
